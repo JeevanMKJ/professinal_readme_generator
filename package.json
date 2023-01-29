@@ -1,0 +1,25 @@
+{
+  "name": "professinal_readme_generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeevanMKJ/professinal_readme_generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeevanMKJ/professinal_readme_generator/issues"
+  },
+  "homepage": "https://github.com/JeevanMKJ/professinal_readme_generator#readme",
+  "dependencies": {
+    "i": "^0.3.7",
+    "inquirer": "^8.2.4",
+    "npm": "^9.4.0"
+  }
+}
