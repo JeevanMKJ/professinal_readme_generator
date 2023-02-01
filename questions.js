@@ -1,31 +1,3 @@
-// const questions = [
-//   {
-//     type: "input",
-//     message: "What is your name?",
-//     name: "name",
-//   },
-//   {
-//     type: "input",
-//     message: "What is your location?",
-//     name: "location",
-//   },
-//   {
-//     type: "input",
-//     message: "What is your bio?",
-//     name: "bio",
-//   },
-//   {
-//     type: "input",
-//     message: "What is your linkedIn URL?",
-//     name: "linkedIn",
-//   },
-//   {
-//     type: "input",
-//     message: "What is your GitHub URL?",
-//     name: "github",
-//   },
-// ];
-
 const questions = [
   {
     type: "input",
