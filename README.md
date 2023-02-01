@@ -16,7 +16,7 @@ This project enables users to generate a README by imputing their information in
 To install this application use the “git clone []” repository to the local machine. Further needed are also: “VS Code” , “node.js”
 
 ## Usage
-To use this application: open the folder in “VS Code” and open the “index.js” file. Open the “integrated terminal” for “index.js” and input the “node index.js” in the command line. Answer the questions in the command line. When all the questions have been completed the README should either be generated or updated. 
+To use this application: open the folder in “VS Code” and open the “index.js” file. Open the “integrated terminal” for “index.js” and input the “node index.js” in the command line. Answer the questions in the command line. When all the questions have been completed the README should either be generated or updated. [Walkthrough video of application](./assets/professional_readme_generator_video.mov)
 
 ## License
 This project is covered under the MIT license.
